@@ -4,12 +4,12 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hello there, I am You Sheng! I am currently in my third year of studies in the National University of Singapore and I am currently majoring in Data Science & Analytics. I have a small side interest towards modelling infectious diseases and epidemiology and so I love playing around with data regarding these issues.
 
 - I rock a great mustache
 - I'm extremely loyal to my family
 
-What else do you need?
+Feel free to reach out to me to ask me anything or if you are keen on collaboration!
 
 ### my history
 
