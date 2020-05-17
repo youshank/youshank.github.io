@@ -12,7 +12,8 @@ author: You Sheng
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "Just a student from Singapore that is interested in data"
+  About Me: 
+     - "Just a student from Singapore that is interested in data"
   Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
