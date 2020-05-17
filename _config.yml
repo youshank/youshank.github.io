@@ -12,8 +12,7 @@ author: You Sheng
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: 
-     - "about"
+  About Me: "about"
   Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
