@@ -1,4 +1,9 @@
-## Hello World!
+---
+layout: post
+title: Hello World!
+subtitle: My very first post
+tags: [personal]
+---
 
 This is my very first post and it's gonna be kind of an introductory post as to what I'm going to be doing here. I am still a student just trying to figure out **MANY** things in this huge world of data science and I am always open to learning and collaborating on data science projects if anyone is keen! So if you are looking for some help and just need someone to help out (and you don't mind passing me some knowledge of your own), do hit me up.
 
